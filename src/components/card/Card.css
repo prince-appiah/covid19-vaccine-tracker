@@ -1,0 +1,27 @@
+.card {
+  margin: 50px;
+  width: 45%;
+}
+
+@media (min-width: 768px) {
+  .card {
+    margin: 45px;
+    width: 45%;
+  }
+}
+
+.main-card {
+  border-top: 5px solid #ff7779;
+}
+
+.main-card-content {
+  text-align: center;
+}
+
+.main-card-header {
+  margin: 10px 0;
+}
+
+.main-card-body {
+  margin: 10px 0;
+}
